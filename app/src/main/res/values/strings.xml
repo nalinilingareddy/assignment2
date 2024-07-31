@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name" translatable="false">Learn French</string>
+
+
+    <string-array name="spinner_items">
+        <item>Basic French Vocabulary</item>
+        <item>Common French Phrases</item>
+    </string-array>
+
+
+</resources>

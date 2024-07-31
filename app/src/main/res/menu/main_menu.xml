@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/it_french_notes"
+        android:title="True or False"
+        android:icon="@drawable/baseline_note_alt_24"
+        android:background="@style/CustomMenuItemStyle"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/it_fill_in_the_blanks"
+        android:title="Fill in the blanks"
+        android:icon="@drawable/ic_fill_in_the_blanks"
+        android:background="@style/CustomMenuItemStyle"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/it_true_false"
+        android:title="True or False"
+        android:icon="@drawable/ic_true_false"
+        android:background="@style/CustomMenuItemStyle"
+        app:showAsAction="ifRoom"/>
+</menu>
